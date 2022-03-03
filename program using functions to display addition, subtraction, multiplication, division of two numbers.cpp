@@ -1,4 +1,4 @@
-//Write a program in C using functions to display addition, subtraction, multiplication, division of two numbers
+//Write a program in C using functions to display addition, subtraction, multiplication, division of two numbers.
 #include <stdio.h>
 void addition(int, int);
 void subtraction(int, int);
