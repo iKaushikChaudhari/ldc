@@ -1,4 +1,4 @@
-//Write a menu-driven program in C to demonstrate the use of the left shift, right shift, and, or, xor operators.
+//Write a menu-driven program in C to demonstrate the use of the left shift, right shift, and, or, xorÂ operators.
 #include <stdio.h>
 int main()
 {
