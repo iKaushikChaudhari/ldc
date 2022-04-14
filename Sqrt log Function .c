@@ -1,4 +1,4 @@
-//Write A Menu Friven Program In C Using Funtions 
+//Write A Menu Driven Program In C Using Funtions 
 #include <stdio.h>
 #include <math.h>
 void squareroot(int);
